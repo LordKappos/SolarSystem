@@ -15,6 +15,7 @@ class Planet {
     let diameter: Int
     let dayLength: Float
     let millionKMsFromSun: Float
+//    let solarSystemImage : String
     
     init(name: String, diameter: Int, dayLength: Float, millionKMsFromSun: Float) {
         
